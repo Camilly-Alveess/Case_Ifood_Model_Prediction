@@ -21,8 +21,7 @@ Além de maximizar o lucro da campanha, o CMO está interessado em estudar as ca
 ### Desenvolvimento do Modelo
 O modelo será desenvolvido utilizando a biblioteca PyCaret, que permite a construção rápida e fácil de modelos de aprendizado de máquina. Serão exploradas diferentes técnicas e algoritmos para determinar o modelo que melhor se adequa aos dados e ao objetivo da empresa.
 
-* Autor
-Este projeto foi desenvolvido por *Camilly Alves*.
+* Este projeto foi desenvolvido por *Camilly Alves*.
 
 
 Sugestões são sempre bem-vindas! =)
