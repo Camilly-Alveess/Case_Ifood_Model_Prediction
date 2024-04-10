@@ -1,4 +1,6 @@
-# Modelo Preditivo para Campanha de Marketing Direto da Ifood
+# Modelo Preditivo para Campanha de Marketing Direto da Ifood ❤️
+
+![PedirUmIfoodQuandoQuiserShowDaBlackFridayGIF (2)](https://github.com/Camilly-Alveess/Case_Ifood_Modelo_De_Classificacao/assets/142948474/6315ff4c-63ac-4e67-8732-151407b3af69)
 
 Este repositório contém um modelo preditivo desenvolvido para prever o comportamento do cliente em relação à aquisição de um novo gadget durante uma campanha de marketing direto. O objetivo do modelo é maximizar o lucro para a próxima campanha de marketing direto da empresa, programada para o próximo mês.
 
@@ -21,6 +23,6 @@ O modelo será desenvolvido utilizando a biblioteca PyCaret, que permite a const
 
 * Autor
 Este projeto foi desenvolvido por *Camilly Alves*.
-Para mais informações, entre em contato pelo email: csalvesia@gmail.com .
+
 
 Sugestões são sempre bem-vindas! =)
