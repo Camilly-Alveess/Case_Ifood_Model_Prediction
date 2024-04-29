@@ -1,3 +1,5 @@
+# !pip install pycaret==3.0.4
+
 import streamlit as st
 import pandas as pd
 import numpy as np
