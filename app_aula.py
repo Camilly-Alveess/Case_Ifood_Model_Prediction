@@ -42,7 +42,7 @@ if database == 'CSV':
             Xtest = pd.read_csv(file)
 
             #carregamento / instanciamento do modelo pkl
-            tuned_lgbm = load_model('./pickle/pickle_rf_pycaret')
+            tuned_lgbm = load_model('./pickle/pickle_et_pycaret')
 
             #predict do modelo
             ypred = predict_model(tuned_lgbm, data = Xtest, raw_score = True)
