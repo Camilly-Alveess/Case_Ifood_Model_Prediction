@@ -24,7 +24,7 @@ with st.sidebar:
     c1, c2 = st.columns(2)
     c1.image('./images/imagem.png', width = 100)
     c2.write('')
-    c2.subheader('CP2 - App iFood')
+    c2.subheader('App iFood')
 
     database = st.radio('Fonte dos dados de entrada (X):', ('CSV', 'Online'))
 
